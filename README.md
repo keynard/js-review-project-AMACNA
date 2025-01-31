@@ -1,5 +1,5 @@
-# fdsfsdf
+# Javascript Review Project by John Keynard Amacna
 
- dsfsdfsdggsraesf
+ This Project is a review of Javascript, from begginer to advanced.
 
- fdfd
+ # updating file from github repo and pull changes to local
